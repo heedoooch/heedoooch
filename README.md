@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Hidaya /heedoooch/
-- 👀 I’m interested in ِِMachine Learning & Deep learning
+- 👀 I’m interested in ِِMachine Learning & Deep learning.
 - 🌱 I’m currently learning ML algorithms
-- 💞️ I’m looking to collaborate on projects that involves data analysis & ML.
+- 💞️ I’m looking to collaborate on projects that involves ML and computer vision.
 - 📫 How to reach me: zh.bouchouka@esi-sba.dz
 
 <!---
