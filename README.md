@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Hidaya /heedoooch/
-- 👀 I’m interested in ِِMachine Learning & Deep learning.
-- 🌱 I’m currently learning NLP algorithms
-- 💞️ I’m looking to collaborate on projects that involve ML and computer vision.
+- 👀 I’m interested in ِِMachine Learning & Data Science.
+- 🌱 I’m currently learning NLP, LLM and GenAI algorithms
+- 💞️ I’m looking to collaborate on projects that involve ML and LLMs.
 - 📫 How to reach me: hidayabouchouka@gmail.com
 
 <!---
